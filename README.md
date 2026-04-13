@@ -14,43 +14,71 @@ SmartFinance AI adalah aplikasi manajemen keuangan berbasis web yang menggunakan
 
 ## Fitur
 
-### Manajemen Transaksi
+## Manajemen Transaksi
+1.  Catat Pemasukan
+-Pengguna dapat menambahkan pemasukan dari berbagai sumber (gaji, bonus, sampingan) beserta nominal, tanggal, dan deskripsi.
 
-1. **Catat Pemasukan** – Input data pemasukan
-2. **Catat Pengeluaran** – Input pengeluaran
-3. **Total Saldo Otomatis** – Hitung saldo real-time
-4. **Kategori Pengeluaran** – Pengelompokan transaksi
-5. **Edit & Hapus Transaksi** – Kelola data
+2.  Catat Pengeluaran
+-Input pengeluaran sehari-hari dengan cepat, misalnya belanja, transportasi, atau hiburan.
 
----
+3.  Total Saldo Otomatis
+-Sistem langsung menghitung dan memperbarui saldo bersih setiap kali ada transaksi masuk atau keluar.
 
-### Fitur AI
+4.  Kategori Pengeluaran
+-Pengeluaran dikelompokkan (makanan, tagihan, gaya hidup, dll.) untuk memudahkan analisis.
 
-6. **AI Saran Hemat** – Rekomendasi penghematan
-7. **AI Deteksi Pengeluaran Terbesar** – Identifikasi pemborosan
-8. **AI Prediksi Sisa Uang** – Estimasi saldo
-9. **AI Rekomendasi Budget** – Saran alokasi
-10. **AI Ringkasan Keuangan** – Insight otomatis
+5.  Edit & Hapus Transaksi
+-Pengguna dapat mengoreksi atau menghapus data transaksi yang salah atau tidak relevan.
 
----
+## Fitur AI
+6.  AI Saran Hemat
+-Memberikan rekomendasi spesifik (misal: “Kurangi belanja online 20% bulan ini”) berdasarkan pola pengeluaran.
 
-### Monitoring
+7.  AI Deteksi Pengeluaran Terbesar
+-Menyoroti kategori atau transaksi dengan nominal tertinggi yang berpotensi menjadi pemborosan.
 
-11. **Budget Bulanan**
-12. **Notifikasi Budget**
-13. **Laporan Harian**
-14. **Laporan Bulanan**
-15. **History Transaksi**
+8.  AI Prediksi Sisa Uang
+-Memperkirakan sisa saldo akhir bulan berdasarkan rata-rata pemasukan & pengeluaran sebelumnya.
 
----
+9.  AI Rekomendasi Budget
+-Menawarkan alokasi anggaran ideal per kategori (misal: 50% kebutuhan, 30% keinginan, 20% tabungan).
 
-### UI & Sistem
+10.  AI Ringkasan Keuangan
+-Menghasilkan insight otomatis mingguan/bulanan, seperti “Pengeluaran Anda naik 15% dibanding bulan lalu.”
 
-16. **Dashboard Grafik**
-17. **Dark Mode**
-18. **Login/Register**
-19. **Export PDF**
-20. **Reminder Tagihan**
+## Monitoring
+11.  Budget Bulanan
+-Pengguna bisa menentukan target budget per kategori dan melacak realisasinya.
+
+12.  Notifikasi Budget
+-Peringatan ketika pengeluaran mendekati atau melebihi batas budget yang ditentukan.
+
+13.  Laporan Harian
+-Ringkasan pemasukan & pengeluaran per hari untuk kontrol lebih ketat.
+
+14.  Laporan Bulanan
+-Rekap lengkap dalam bentuk grafik dan angka untuk evaluasi tren keuangan.
+
+15.  History Transaksi
+-Arsip semua transaksi yang bisa dicari, difilter, dan diurutkan berdasarkan tanggal/kategori.
+
+## UI & Sistem
+16.  Dashboard Grafik
+-Visualisasi data keuangan (pie chart, bar chart) untuk memahami distribusi pemasukan & pengeluaran.
+
+17.  Dark Mode
+-Mode tampilan gelap untuk kenyamanan mata saat digunakan di malam hari.
+
+18.  Login/Register
+-Sistem autentikasi pengguna agar data keuangan tetap privat dan aman.
+
+19.  Export PDF
+-Mengunduh laporan keuangan (harian/bulanan) sebagai file PDF untuk keperluan arsip atau berbagi.
+
+20.  Reminder Tagihan
+-Pengingat otomatis untuk tagihan berulang (listrik, air, internet, cicilan) agar tidak terlambat bayar.
+
+
 
 ---
 
