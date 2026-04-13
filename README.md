@@ -1,8 +1,15 @@
+# Kelompok 5 :
+1. [241111280] Vincent Widjaya 
+2. [241110977] Louis Susanto 
+3. [241110752] Florentina
+4. [241111993] Figo Kosasih 
+5. [241112564] Eka Anastsya Situmorang
+
+-----
+
 # SmartFinance AI
 
 SmartFinance AI adalah aplikasi manajemen keuangan berbasis web yang menggunakan kecerdasan buatan untuk membantu pengguna mengelola pemasukan, pengeluaran, dan memberikan insight finansial secara otomatis.
-
----
 
 ## Tujuan
 
@@ -10,9 +17,7 @@ SmartFinance AI adalah aplikasi manajemen keuangan berbasis web yang menggunakan
 * Memberikan analisis berbasis AI
 * Mengurangi pengeluaran berlebih
 
----
-
-## Fitur
+## 20 Fitur dan AI
 
 ## Manajemen Transaksi
 1.  Catat Pemasukan
@@ -78,18 +83,12 @@ SmartFinance AI adalah aplikasi manajemen keuangan berbasis web yang menggunakan
 20.  Reminder Tagihan
 -Pengingat otomatis untuk tagihan berulang (listrik, air, internet, cicilan) agar tidak terlambat bayar.
 
+## Timeline Pengembangan
 
-
----
-
-## Timeline
-
-* Minggu 1: Core system
-* Minggu 2: UI
-* Minggu 3: Laporan
-* Minggu 4-5: AI
-
----
+- Minggu 1* → Pengembangan fitur dasar (1–5)  
+- Minggu 2* → UI/UX & Dashboard (16–18)  
+- Minggu 3* → Sistem laporan & pengelolaan (10–15)  
+- Minggu 4–5* → Integrasi AI (6–9, 19–20)
 
 ## Teknologi
 
