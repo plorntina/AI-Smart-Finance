@@ -1,9 +1,8 @@
 # Kelompok 5 :
-1. [241111280] Vincent Widjaya 
-2. [241110977] Louis Susanto 
-3. [241110752] Florentina
-4. [241111993] Figo Kosasih 
-5. [241112564] Eka Anastsya Situmorang
+1. [241111280] Vincent Widjaya  
+2. [241110752] Florentina
+3. [241111993] Figo Kosasih 
+4. [241112564] Eka Anastsya Situmorang
 
 -----
 
